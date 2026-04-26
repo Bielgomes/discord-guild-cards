@@ -17,7 +17,7 @@ Using data retrieved by the Discord bot, such as server name, banner, icon, numb
 Embedding card in GitHub Markdown:
 
 ```
-[![my guild card](https://guild-cards.discloud.app/api/DISCORD_GUILD_ID)](https://discord.gg/MY_INVITE_CODE)
+[![my guild card](https://cards.bielgomes.com.br/api/DISCORD_GUILD_ID)](https://discord.gg/MY_INVITE_CODE)
 ```
 
 ### Some Examples
